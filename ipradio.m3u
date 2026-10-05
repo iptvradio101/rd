@@ -1,0 +1,56 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="FM 95" tvg-logo="https://s1.imgbb.ws/file/storage-sv1/WFyq9.png" group-title="MCOT Radio",FM 95 - Luk Thung Mahanakorn
+http://rstream.mcot.net:8000/fm95
+#EXTINF:-1 tvg-name="FM 96.5" tvg-logo="https://s2.imgbb.ws/file/storage-sv2/WFsHn.png" group-title="MCOT Radio",FM 96.5 - Thinking Radio
+https://live-org-01-cdn.mcot.net/radiocdn_edge/fm965.stream_aac/chunklist.m3u8
+#EXTINF:-1 tvg-name="FM 97.5" tvg-logo="https://s2.imgbb.ws/file/storage-sv2/WFefZ.jpg" group-title="MCOT Radio",FM 97.5 - MCOT Radio FM 97.5
+http://rstream.mcot.net:8000/fm975
+#EXTINF:-1 tvg-name="FM 99" tvg-logo="https://s2.imgbb.ws/file/storage-sv2/WF2gL.png" group-title="MCOT Radio",FM 99 - Active Radio
+http://rstream.mcot.net:8000/fm99
+#EXTINF:-1 tvg-name="FM 100.5" tvg-logo="https://s2.imgbb.ws/file/storage-sv2/WFWVz.jpg" group-title="MCOT Radio",FM 100.5 - MCOT News FM 100.5
+http://rstream.mcot.net:8000/fm1005
+#EXTINF:-1 tvg-name="FM 107" tvg-logo="https://s1.imgbb.ws/file/storage-sv1/WF2yE.png" group-title="MCOT Radio",FM 107 - MET 107
+http://rstream.mcot.net:8000/fm107
+
+#EXTINF:-1 tvg-name="FM 107.25" tvg-logo="https://s1.imgbb.ws/file/storage-sv1/WFiXW.png" group-title="MCOT Radio",FM Kanchanaburi 107.25 
+https://lb-media.mcot.net/RegionRadio/Kanchanaburi.stream_aac/chunklist_w622980989.m3u8
+#EXTINF:-1 tvg-id="Fm.th" tvg-logo="https://s2.imgbb.ws/file/storage-sv2/WFQGa.jpg" group-title="FM Radio", looktung Lanna
+https://inter.lannaradio.com/radio/8000/radio.mp3
+
+#EXTINF:-1 tvg-id="Fm.th" tvg-logo="https://s2.imgbb.ws/file/storage-sv2/WFTVI.jpg" group-title="FM Radio", Huahin Music Radio
+https://radio10.plathong.net/7008/;stream.mp3
+#EXTINF:-1 tvg-id="Fm.th" tvg-logo="https://s2.imgbb.ws/file/" group-title="FM Radio", looktung Lanna
+https://inter.lannaradio.com/radio/8000/radio.mp3
+
+#EXTINF:-1,กรุงเทพฯ (FM 105 MHz) tvg-logo="https://s2.imgbb.ws/file/storage-sv2/WK16r.png" group-title="PRD Radio", FM 105 MHz
+https://radio-org-01-ott.prd.go.th/bkk_fm105
+
+#EXTINF:-1,กรุงเทพฯ (FM 88 MHz) tvg-logo="https://s2.imgbb.ws/file/storage-sv2/WK16r.png" group-title="PRD Radio", FM 88 MHz
+https://radio-org-01-ott.prd.go.th/bkk_fm88
+
+#EXTINF:-1,กรุงเทพฯ (FM 92.5 MHz) tvg-logo="https://s2.imgbb.ws/file/storage-sv2/WK16r.png" group-title="PRD Radio", FM 92.5 MHz
+https://radio-org-01-ott.prd.go.th/bkk_fm92_5
+
+#EXTINF:-1,กรุงเทพฯ (FM 93.5 MHz) tvg-logo="https://s2.imgbb.ws/file/storage-sv2/WK16r.png" group-title="PRD Radio", FM 93.5 MHz
+https://radio-org-01-ott.prd.go.th/bkk_fm93.5
+
+#EXTINF:-1,กรุงเทพฯ (FM 95.5 MHz) tvg-logo="https://s2.imgbb.ws/file/storage-sv2/WK16r.png" group-title="PRD Radio", FM 895.5 MHz
+https://radio-org-01-ott.prd.go.th/bkk_fm95_5
+
+#EXTINF:-1,กรุงเทพฯ (FM 97 MHz) tvg-logo="https://s2.imgbb.ws/file/storage-sv2/WK16r.png" group-title="PRD Radio", FM 97 MHz
+https://radio-org-01-ott.prd.go.th/bkk_fm97
+
+
+#EXTINF:-1,กรุงเทพฯ (AM 819 KHz) tvg-logo="https://s2.imgbb.ws/file/storage-sv2/WK16r.png" group-title="PRD Radio", AM 819 KHz
+https://radio-org-01-ott.prd.go.th/bkk_am819
+
+#EXTINF:-1,กรุงเทพฯ (AM 891 KHz) tvg-logo="https://s2.imgbb.ws/file/storage-sv2/WK16r.png" group-title="PRD Radio", AM 891 KHz
+https://radio-org-01-ott.prd.go.th/bkk_am891
+
+#EXTINF:-1,Greenwave  tvg-logo="https://s2.imgbb.ws/file/storage-sv2/WkHWI.jpg" group-title=" Atime Radio", Greenwave
+https://atimeonline2.smartclick.co.th/green
+#EXTINF:-1,EFM  tvg-logo="https://s1.imgbb.ws/file/storage-sv1/Wkb9L.jpg" group-title=" Atime Radio", EFM
+https://atimeonline2.smartclick.co.th/efm
+#EXTINF:-1,Hotwave tvg-logo="https://s2.imgbb.ws/file/storage-sv2/WkIth.png" group-title=" Atime Radio", Hotwave
+https://atimeonline2.smartclick.co.th/hotwave
